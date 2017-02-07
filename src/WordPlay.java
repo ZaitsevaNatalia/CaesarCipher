@@ -7,12 +7,12 @@ import java.io.InputStreamReader;
 public class WordPlay
 {
 
-    public static void main(String[] args) throws Exception
+    /*public static void main(String[] args) throws Exception
     {
         //testIsVowel();
         testReplaceVowels();
         //testEmphasize();
-    }
+    }*/
 
     public static boolean isVowel(String ch)
     {
